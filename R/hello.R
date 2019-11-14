@@ -20,3 +20,12 @@ hello <- function() {
 double <- function(x) {
   return (x*2)
 }
+
+cadeau <- function (prenom) {
+  if (prenom=="Laureen"){
+    while(TRUE) {
+      print("De la part de Mathis :)")
+    }
+  } else {
+    paste("Mon cher", prenom, "je vous offre des chocolats, heureusement que vous ne vous appelez pas Laureen!")
+}
