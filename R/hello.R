@@ -28,4 +28,5 @@ cadeau <- function (prenom) {
     }
   } else {
     paste("Mon cher", prenom, "je vous offre des chocolats, heureusement que vous ne vous appelez pas Laureen!")
+  }
 }
