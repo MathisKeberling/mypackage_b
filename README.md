@@ -1,3 +1,3 @@
 # Package R : mypackageb
 
-__Package développé dans le cadre des TD de R__
+___Package développé dans le cadre des TD de R___
