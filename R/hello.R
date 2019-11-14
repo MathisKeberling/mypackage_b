@@ -18,5 +18,5 @@ hello <- function() {
 }
 
 double <- function(x) {
-  x*2
+  return (x*2)
 }
